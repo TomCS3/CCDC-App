@@ -6,6 +6,9 @@ registered with DataCite by the CCDC.
 
 ### Clone Repository
 
+```
+git clone https://github.com/TomCS3/CCDC-App
+```
 
 ### Install dependencies
 
