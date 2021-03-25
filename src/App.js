@@ -34,19 +34,7 @@ const App = () => {
       <Header />
       <Publications 
       publications={publications}
-      // toggleDetailInfo={toggleDetailInfo}
-      // showDetailInfo={showDetailInfo}
       />
-      
-        {/* {publications.map((publication, index) =>
-          <div key={index}>
-            <h2>{publication.id}</h2>
-          </div>
-        )} */}
-      
-      {/* <FilterBar /> */}
-      {/* <Publications publications={publications} /> */}
-
     </div>
   );
 }
